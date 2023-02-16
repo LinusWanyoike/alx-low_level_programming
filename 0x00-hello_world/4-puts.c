@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main - Aprogram that prints in a new line usint the puts 
+ * main - Aprogram that prints in a new line using the puts
  * Return: 0 (success)
 */
 int main(void)
